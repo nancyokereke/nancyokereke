@@ -17,9 +17,10 @@ Results-driven Cybersecurity Professional dedicated to protecting organizational
 
 ### 📁 Technical Portfolio
 *Documented projects and security research:*
-* **[GRC] Enterprise NIST CSF Gap Analysis:** A systematic audit and remediation roadmap for enterprise security posture.
-* **[Threat Analysis] Risk Management Framework:** Developing comprehensive risk registers and qualitative assessment models.
-* **[SecOps] Security Policy & Governance:** Drafting enterprise-grade Acceptable Use Policies (AUP) and Incident Response Plans.
+* **[AI Security] AI Security Analysis:** Focused on identifying and mitigating prompt injection vulnerabilities within LLM-integrated applications to prevent unauthorized data access.
+* **[GRC] NIST CSF 2.0 Gap Analysis:** A systematic audit and remediation roadmap focused on aligning enterprise security posture with the latest NIST standards.
+* **[Threat Analysis] Vulnerability Assessment Lab:** End-to-end vulnerability lifecycle management, from detection and CVSS scoring to remediation.
+* **[SecOps] Network Intrusion Detection Lab:** Simulating exploitation of **Metasploitable** via **Kali Linux** to analyze attack traffic and configure IDS/IPS signatures for real-time threat mitigation.
 
 ### 🌎 Professional Network
 - **Location:** Lagos, Nigeria 🇳🇬
